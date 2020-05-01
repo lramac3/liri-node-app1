@@ -30,7 +30,7 @@
     "dotenv": "^6.2.0",
     "init": "^0.1.2",
     "node-spotify-api": "^1.0.7",
-    "snyk": "^1.169.2"
+    "snyk": "^1.316.1"
   },
   "snyk": true
 }
