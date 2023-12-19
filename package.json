@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/lramac3/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dotenv": "^6.2.0",
     "init": "^0.1.2",
     "node-spotify-api": "^1.0.7",
-    "snyk": "^1.169.2"
+    "snyk": "^1.996.0"
   },
   "snyk": true
 }
